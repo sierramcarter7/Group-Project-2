@@ -14,4 +14,11 @@ The dataset was obtained from the NOAA (National Oceanic and Atmospheric Adminis
 
 
 ## Questions 
-Our first question focused on finding the average magnitude of the most frequent event type in each state during sever weather season (May-September)
+Our first question focused on finding the average magnitude of the most frequent event type in each state during sever weather season (May-September). This is an important question to consider because May to September is peak severe weather season. By focusing on the most frequent event type per state, this question highlights what each region is most commonly exposed to. Storm magnitude often correlates with potential damage.Our second question analyses tornado behavior in the midwest, comparing width and path length. This is a valuble question because the midwest region is a tornado hotspot, often experiencing some of the most destructive tornados in the country. Investigating the correlation between tornado width and path length can help identify patterns in tornado behavior that may help inform things like: preparedness strategies,emergency response plans, and infastructure design. 
+
+## Manipulations Applied to the Dataset
+In order to maximize the relevancy of our question we had to manipulate and refine the data. For question 1 we refined the data to only include state,event type,month,magnitude,year, and date. State will idenfity the geogrphic location of events.Event type allows for filtering by the most frequent event type. Month restriction enables filtering from may through september. Year and date are used for time-trend breakdowns.For question 2 we filtered by state,average width, event type, and average length. State filters the data to midwest states only. Average width and length measures the average width and length by state to help identify how destructive the tornado is. Event type ensures we are refining to only tornado events. 
+
+## Analysis and Results 
+
+## Tableau Workbook 
