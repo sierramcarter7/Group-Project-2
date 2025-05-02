@@ -27,4 +27,4 @@ Looking at the graph, you can see that the event types are divided by color. Pin
 Looking at the graph, you can see that Wisconsin has the highest average tornado width and length, followed closely by Minnesota. Nebraska has a relatively high average tornado length, but the width is moderate, implying long-traveling but narrow tornadoes. Additionally, there is a visual correlation where states with higher width tend to also have higher length, like Minnesota and Wisconsin. States like Wisconsin and Minnesota might require more robust disaster preparedness due to larger tornado dimensions. Tornadoes in Missouri and Ohio appear wide but short, suggesting they may be powerful but localized. 
 
 
-## Tableau Workbook 
+
